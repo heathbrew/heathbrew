@@ -3,7 +3,7 @@
 
 # 🧠 About Me
 
-I'm a high-conviction thinker blending **strategic architecture (INTJ)** with **creative execution (ENTP)**.  
+I'm a high-conviction thinker blending **strategic architecture ** with **creative execution **.  
 I build systems that **think, adapt, and scale** — not just function.
 
 > Clarity is my design principle. Curiosity is my fuel.  
