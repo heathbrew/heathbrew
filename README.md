@@ -1,4 +1,50 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A7F7F5&width=700&lines=Hi%2C+I'm+Heathbrew.;Strategic+Thinker+%2B+Creative+Technologist.;INTJ+%2B+ENTP+Energy+in+Code+Form.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A7F7F5&width=700&lines=Hi%2C+I'm+Heathbrew.;Strategic+Thinker+%2B+Creative+Technologist..)](https://git.io/typing-svg)
+---
+
+# 🧠 About Me
+
+I'm a high-conviction thinker blending **strategic architecture (INTJ)** with **creative execution (ENTP)**.  
+I build systems that **think, adapt, and scale** — not just function.
+
+> Clarity is my design principle. Curiosity is my fuel.  
+> I don’t just write code — I **engineer ideas**.
+
+- ⚡ AI + LLMs | Full-stack JS | DevOps + Infra  
+- 🚀 Currently prototyping intelligent agents that reason like humans  
+- 🧩 I believe good software isn’t clever — it’s **inevitable**
+
+---
+
+# 🚀 Projects Worth Noticing
+
+| 🚀 Repo | ⚡ Summary | 🎯 Why It Matters |
+|--------|------------|------------------|
+| [`linear-ai-agent`](https://github.com/yourusername/linear-ai-agent) | A local LLM agent that reasons over codebases | Build your own dev brain |
+| [`vision-stack`](https://github.com/yourusername/vision-stack) | A full-stack starter for AI-native web apps | Strategic foundation, infinite scale |
+| [`persona-core`](https://github.com/yourusername/persona-core) | Modular identity engine for dynamic UI logic | Interfaces that think like users do |
+
+---
+
+# 🛠️ Tech Stack
+
+### Core Toolkit:
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=yellow)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### AI / Data / LLMs:
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-3B3B98?style=for-the-badge)
+![Vector DBs](https://img.shields.io/badge/Pinecone-005DAB?style=for-the-badge&logo=pinboard&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Infra & Tooling:
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -36,16 +82,13 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushman-pranav/)
+[![Orcid](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theayushmanpranav@gmail.com.com)
 
 </div>
 
 ---
 
-![snake gif](https://github.com/heathbrew/heathbrew/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/heathbrew/blob/output/github-contribution-grid-snake-dark.svg)
 
 > _"Don't just deploy projects. Ship perspectives. Code is power when it thinks with purpose."_
-
----
-[![](https://visitcount.itsvg.in/api?id=heathbrew&icon=5&color=0)](https://visitcount.itsvg.in)
