@@ -89,6 +89,4 @@ I build systems that **think, adapt, and scale** — not just function.
 
 ---
 
-![snake gif](https://github.com/heathbrew/blob/output/github-contribution-grid-snake-dark.svg)
-
 > _"Don't just deploy projects. Ship perspectives. Code is power when it thinks with purpose."_
